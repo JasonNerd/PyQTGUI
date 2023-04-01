@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="back">
+    <file>双色球彩票选号器.jpg</file>
+    <file>停止.jpg</file>
+    <file>开始.jpg</file>
+  </qresource>
+</RCC>
